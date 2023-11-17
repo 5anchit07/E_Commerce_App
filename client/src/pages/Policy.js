@@ -13,13 +13,11 @@ const Policy = () => {
           />
         </div>
         <div className="col-md-4">
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
+        <p>1. <strong>Data Collection:</strong> Limited, essential user information for order processing, ensuring privacy.</p>
+<p>2. <strong>Secure Transactions:</strong> Industry-standard encryption for safe financial transactions.</p>
+<p>3. <strong>No Third-Party Sharing:</strong> Personal information kept confidential; no sharing without consent.</p>
+
+
         </div>
       </div>
     </Layout>

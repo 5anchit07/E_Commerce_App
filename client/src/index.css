@@ -32,6 +32,10 @@
   font-weight: 700;
   font-family: "roboto", sans-serif;
   letter-spacing: 3px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  column-gap: 0.5rem;
 }
 
 .search-form {
